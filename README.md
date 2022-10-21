@@ -1,1 +1,1 @@
-applying HTML and CSS fundamentals to my very first webpage
+apply html and css fundamentals to my webpage
