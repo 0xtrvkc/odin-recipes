@@ -1,1 +1,2 @@
-apply html and css fundamentals to my webpage
+my very first web page
+this is an assignment from TOP project fullstack online course about HTML fundamental
